@@ -11,15 +11,16 @@
 ## O Projeto
 
 ```
-O projeto determina o maior número primo de 4096 bits, através de uma função e em seguida através do através de um algoritmo
-RSA criptografa uma mensagem e em seguida decripta a mensagem novamente, exibindo a mensagem original ao final da execução.
+O projeto determina o maior número primo de 4096 bits, através de uma função e em seguida através 
+do através de um algoritmoRSA criptografa uma mensagem e em seguida decripta a mensagem novamente, 
+exibindo a mensagem original ao final da execução.
 ```
 
 ## O que é RSA ?
 
 ```
-RSA (Rivest-Shamir-Adleman) é um dos primeiros sistemas de criptografia de chave pública e é amplamente utilizado para 
-transmissão segura de dados.
+RSA (Rivest-Shamir-Adleman) é um dos primeiros sistemas de criptografia de chave pública e é 
+amplamente utilizado para transmissão segura de dados.
 ```
 
 ## Authors
